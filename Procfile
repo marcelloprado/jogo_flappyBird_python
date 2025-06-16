@@ -1,1 +1,1 @@
-web: python FlappyBird:app
+web: python .\FlappyBird:app
