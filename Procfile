@@ -1,1 +1,1 @@
-web: gunicorn FlappyBird:app
+web: python FlappyBird:app
